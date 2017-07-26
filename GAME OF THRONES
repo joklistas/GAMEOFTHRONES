@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]GAME OF THRONES[/COLOR]
+
+#EXTINF:-1, [COLOR blue]LISTA DO JOK[/COLOR]
+
+#EXTINF:-1, [COLOR red]ATUALIZADA EM 26/07/2017[/COLOR]
+
+#EXTINF:-1, [COLOR red]1ª TEMPORADA[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 01 - O Inverno Está Chegando
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 02 - A Estrada Real
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 03 - Senhor da Neve
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 04 - Aleijados, Bastardos, e Coisas Quebradas
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 05 - O Lobo e o Leão
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 06 - Uma Coroa Dourada
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 07 - É Vencer ou Morrer  
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 08 - O Ponto Final    
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 09 - Baelor 
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/f2VFinnHA1QRnZajVvLYOnuIjcO.jpg" group-title="DESENHO",1ª - 10 -  Fogo e Sangue 
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP10.mp4
